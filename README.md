@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah Ahmed</h1>
-<h3 align="center">Energetic data engineer, passionate about Big Data, Data Engineering, and Data Analytics technologies to drive impactful solutions.</h3>
+<h3 align="center">Energetic Data Engineer, passionate about Big Data, Data Engineering, and Data Analytics technologies to drive impactful solutions.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -11,4 +11,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahasm99&show_icons=true&locale=en&layout=compact" alt="abdullahasm99" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahasm99&show_icons=true&locale=en" alt="abdullahasm99" /></p>
